@@ -4,7 +4,7 @@ Gradebook From Hell is a CS 490 software quality lab. The repository contains a 
 
 ## Requirements
 
-- Python 3.13
+- Python 3.12
 - `pytest`
 
 ## Setup

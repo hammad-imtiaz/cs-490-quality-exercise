@@ -7,7 +7,7 @@ name = "gradebook-from-hell"
 version = "0.1.0"
 description = "CS 490 software quality lab: an intentionally defective gradebook CLI."
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 authors = [
   { name = "CS 490 Lab" }
 ]
